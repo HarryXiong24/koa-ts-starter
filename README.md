@@ -34,7 +34,7 @@ yarn build
 yarn lint
 ```
 
-## Run tests
+## Run test
 
 ```sh
 yarn test
